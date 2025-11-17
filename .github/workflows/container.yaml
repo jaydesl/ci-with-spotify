@@ -31,4 +31,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/${{ github.actor }}/spotify_eda:latest
+            ghcr.io/jaydesl/spotify_eda:latest
